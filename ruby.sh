@@ -5,7 +5,7 @@
 # Open Source - Software Libre
 #
 # ┌═════════════┐  ┌════════════┐
-# █ termux-ruby █=>█ 18/04/2021 █
+# █ termux-ruby █=>█      2021 █
 # └═════════════┘  └════════════┘
 #
 # ===============================================
@@ -108,5 +108,5 @@ echo -e "${negro}
 Architecture
 Installation
 # ===============================================
-#     Creado por Darkmux - WHITE HACKS ©2021
+#   Hasta luego y gracias por usar este Script
 # ===============================================
