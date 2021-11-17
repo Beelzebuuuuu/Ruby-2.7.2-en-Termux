@@ -9,12 +9,19 @@ Ruby-2.7.2-Para-Termux es un script de auto instalación del paquete ruby 2.7.2 
 
 ## INSTALACIÓN
 apt upgrade
+
 apt update
+
 pkg install Ruby
+
 pkg install git
+
 git clone https://github.com/Beelzebuuuuu/Ruby-2.7.2-en-Termux
+
 cd Ruby-2.7.2-en-Termux
+
 chmod +x ruby.sh
+
 bash ruby.sh
 
 ## Para verificar versión de Ruby
